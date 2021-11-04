@@ -12,6 +12,6 @@ Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in ind
 
 ## Find me
 
-[Medium Blog](https://kwinhoney.medium.com) | [Twitter](https://twitter.com/kwin_gao)
+[Medium Blog](https://kwinhoney.medium.com)  or [Twitter](https://twitter.com/kwin_gao)
 
 ![Image](src)
