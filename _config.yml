@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Kun Gao]
 description: [A introduction of this guy]
+hide_first_title: true 
