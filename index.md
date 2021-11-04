@@ -1,4 +1,3 @@
-# Kun Gao
 
 ## Introduction
 
