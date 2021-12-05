@@ -1,10 +1,10 @@
 ## Kun Gao
 
- 
-```html
-<img style="float: right;" src="assert/pic.jpg">
-Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in differentiable inductive logic programming, maching learning, and deep learning.
-```
+<div style="clear: both;">   <div style="float: left; margin-right 1em;">     <img src="pic.jpg" alt="", weight=100, height=100>   </div>   <div>      <p>Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in differentiable inductive logic programming, maching learning, and deep learning.</p>   </div> </div>
+
+
+
+
 
 ## Publications
 
@@ -18,4 +18,5 @@ Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in dif
 
 ## Find me
 
-[Medium Blog](https://kwinhoney.medium.com)  or [Twitter](https://twitter.com/kwin_gao) or ✉️: kungao@pku.edu.cn
+[Medium Blog](https://kwinhoney.medium.com)  or [Twitter](https://twitter.com/kwin_gao) or ✉️: [kungao@pku.edu.cn](kungao@pku.edu.cn)
+
