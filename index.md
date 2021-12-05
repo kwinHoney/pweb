@@ -1,6 +1,10 @@
 ## Kun Gao
 
-Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in differentiable inductive logic programming, maching learning, and deep learning. 
+ 
+```html
+<img style="float: right;" src="assert/pic.jpg">
+Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in differentiable inductive logic programming, maching learning, and deep learning.
+```
 
 ## Publications
 
