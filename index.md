@@ -18,5 +18,5 @@ Hi, I am a Ph.D. student from CS school, Peking University. My research interest
 
 ## Find me
 
-[**[🐦Twitter](https://twitter.com/kwin_gao)**]   [**[✉️Email](mailto:kungao@pku.edu.cn)**].  [[**📎Medium**](https://kwinhoney.medium.com) ]  [**[🐈‍⬛Github](https://github.com/kwinHoney)**]
+[**[🐦Twitter](https://twitter.com/kwin_gao)**]   [**[✉️Email](mailto:kungao@pku.edu.cn)**]  [[**📎Medium**](https://kwinhoney.medium.com) ]  [**[🐈‍⬛Github](https://github.com/kwinHoney)**]
 
