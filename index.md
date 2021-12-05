@@ -8,7 +8,7 @@ Hi, I am a Ph.D. student from CS school, Peking University. My research interest
 
 ## Publications
 
-- Gao, K., Wang, H., Cao, Y. et al. Learning from interpretation transition using differentiable logic programming semantics. Mach Learn (2021). https://doi.org/10.1007/s10994-021-06058-8.  [Video Talk](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s)
+- Gao, K., Wang, H., Cao, Y. et al. Learning from interpretation transition using differentiable logic programming semantics. Mach Learn (2021). https://doi.org/10.1007/s10994-021-06058-8.  [(Video Talk)](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s)
 
 ## Education
 
