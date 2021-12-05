@@ -1,7 +1,8 @@
+<img src="https://s2.loli.net/2021/12/05/5QvnAriPUWblG9S.jpg" alt="kun.jpg" style="zoom:50%;" />
+
 ## Kun Gao
 
-Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in differentiable inductive logic programming, maching learning, and deep learning.
-
+Hi, I am a Ph.D. student from CS school, Peking University. My research interest focus on differentiable inductive logic programming, maching learning, and deep learning.
 
 
 
@@ -17,5 +18,5 @@ Hi, I am a Ph.D. student from CS school, Peking University. I am instrest in dif
 
 ## Find me
 
-[Medium Blog](https://kwinhoney.medium.com)  or [Twitter](https://twitter.com/kwin_gao) or ✉️: [kungao@pku.edu.cn](kungao@pku.edu.cn)
+[**[🐦Twitter](https://twitter.com/kwin_gao)**]   [**[✉️Email](mailto:kungao@pku.edu.cn)**].  [[**📎Medium**](https://kwinhoney.medium.com) ]  [**[🐈‍⬛Github](https://github.com/kwinHoney)**]
 
