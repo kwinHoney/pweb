@@ -5,18 +5,28 @@
 Hi, I am a Ph.D. student from CS school, Peking University. My research interest focus on differentiable inductive logic programming, maching learning, and deep learning.
 
 
-
-## Publications
-
-- Gao, K., Wang, H., Cao, Y. et al. Learning from interpretation transition using differentiable logic programming semantics. Mach Learn (2021). https://doi.org/10.1007/s10994-021-06058-8.  ([Video Talk](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
-
 ## Education
 
 - 2018-.09-, Ph.D. Candidate Student. Computer Science. Peking University, Beijing, China. 
 - 2019.09-2020.03, Intern Researcher. National Institute of Informatics. Tokyo, Japan.
 - 2014.09-2018.07, Bechlor Degree. Information Security. University of Secience & Technology Beijing, Beijing, China. 
 
+## Publications
+
+- Gao, K., Wang, H., Cao, Y. et al. Learning from interpretation transition using differentiable logic programming semantics. Mach Learn (2021). https://doi.org/10.1007/s10994-021-06058-8.  ([Video Talk](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
+
+## Skills
+
+- TensorFlow, Python, C++, Java, HTML, JavaScript, SQL
+- English, Chinese
+
+## Main Courses
+- Deep Learning, Machine Learning, Algorithm and Complecity
+- Aumomata, Advanced Logic, Mathmatical Foundation in Computer Science
+- Academic Writing, Academic Research Methods
+
+
 ## Find me
 
-[**[🐦Twitter](https://twitter.com/kwin_gao)**]   [**[✉️Email](mailto:kungao@pku.edu.cn)**]  [**[📝Blog](https://kwinhoney.github.io)**]  [**[🐈‍⬛Github](https://github.com/kwinHoney)**]
+[**[🐦Twitter](https://twitter.com/kwin_gao)**]   [**[🧳LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**]   [**[✉️Email](mailto:kungao@pku.edu.cn)**]  [**[📝Blog](https://kwinhoney.github.io)**]  [**[🐈‍⬛Github](https://github.com/kwinHoney)**]
 
