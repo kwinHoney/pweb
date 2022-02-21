@@ -7,9 +7,9 @@ Hi, I am a Ph.D. student from CS school, Peking University. My research interest
 
 ## Education
 
-- 2018-.09-, Ph.D. Candidate Student. Computer Science. Peking University, Beijing, China. 
-- 2019.09-2020.03, Intern Researcher. National Institute of Informatics. Tokyo, Japan.
-- 2014.09-2018.07, Bechlor Degree. Information Security. University of Secience & Technology Beijing, Beijing, China. 
+- 2018.09 - now, Ph.D. Candidate Student. Computer Science. Peking University, Beijing, China. 
+- 2019.09 - 2020.03, Researcher Intern. National Institute of Informatics. Tokyo, Japan.
+- 2014.09 - 2018.07, Bechlor Degree. Information Security. University of Secience & Technology Beijing, Beijing, China. 
 
 ## Publications
 
@@ -22,9 +22,11 @@ Hi, I am a Ph.D. student from CS school, Peking University. My research interest
 
 ## Main Courses
 - Deep Learning, Machine Learning, Algorithm and Complecity
-- Aumomata, Advanced Logic, Mathmatical Foundation in Computer Science
+- Automata, Advanced Logic, Mathmatical Foundation in Computer Science
 - Academic Writing, Academic Research Methods
 
+## Experience
+- 2017.09 - 2018.03, Softeare Engineer Intern. Intel. Beijing, China.  
 
 ## Find me
 
