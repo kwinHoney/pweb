@@ -2,7 +2,7 @@
 
 ## Kun Gao
 
-Hi, I am a Ph.D. student from CS school, Peking University. My research interest focus on differentiable inductive logic programming, maching learning, and deep learning.
+Hi, I am a Ph.D. student from School of Computer Science, Peking University. My research interests focus on differentiable inductive logic programming, machine learning, and deep learning.
 
 
 ## Education
@@ -11,9 +11,9 @@ Hi, I am a Ph.D. student from CS school, Peking University. My research interest
 - 2019.09 - 2020.03, Researcher Intern. National Institute of Informatics. Tokyo, Japan.
 - 2014.09 - 2018.07, Bechlor Degree. Information Security. University of Secience & Technology Beijing, Beijing, China. 
 
-## Publications
+## Publications ([Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra))
 
-- Gao, K., Wang, H., Cao, Y. et al. Learning from interpretation transition using differentiable logic programming semantics. Mach Learn (2021). https://doi.org/10.1007/s10994-021-06058-8.  ([Video Talk](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
+- Gao, K., Wang, H., Cao, Y. et al. Learning from interpretation transition using differentiable logic programming semantics. Mach. Learn. (2021). https://doi.org/10.1007/s10994-021-06058-8.  ([Video Talk](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))([PDF](https://link.springer.com/article/10.1007/s10994-021-06058-8))
 
 ## Skills
 
