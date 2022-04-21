@@ -1,4 +1,4 @@
-<img src="https://s2.loli.net/2021/12/05/5QvnAriPUWblG9S.jpg" alt="kun.jpg" style="zoom:50%;" />
+<img src="https://s2.loli.net/2021/12/05/5QvnAriPUWblG9S.jpg" alt="kun.jpg" style="zoom:50%;" class="center"/>
 
 ## Kun Gao
 
