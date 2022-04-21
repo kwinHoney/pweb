@@ -11,7 +11,7 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 - 2019.09 - 2020.03, Researcher Intern. National Institute of Informatics. Tokyo, Japan.
 - 2014.09 - 2018.07, Bechlor Degree. Information Security. University of Secience & Technology Beijing, Beijing, China. 
 
-## Publications ([Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra))
+## Publications 
 
 - Gao, K., Wang, H., Cao, Y. et al. [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). Mach. Learn. (2021). https://doi.org/10.1007/s10994-021-06058-8.  ([Video Talk](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
 
@@ -30,5 +30,5 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 
 ## Find me
 
-[**[🐦Twitter](https://twitter.com/kwin_gao)**]   [**[🧳LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**]   [**[✉️Email](mailto:kungao@pku.edu.cn)**]  [**[📝Blog](https://kwinhoney.github.io)**]  [**[🐈‍⬛Github](https://github.com/kwinHoney)**]
+[**[🐦 Twitter](https://twitter.com/kwin_gao)**]  [**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**]   [**[✉️ Email](mailto:kungao@pku.edu.cn)**]  [**[📝 Blog](https://kwinhoney.github.io)**]  [**[🐈‍⬛ Github](https://github.com/kwinHoney)**]
 
