@@ -4,8 +4,7 @@
 
 |        <div style="width:200px"></div>  |         |
 | ------------ | ------------- | 
-|<img src="https://s2.loli.net/2021/12/05/5QvnAriPUWblG9S.jpg" alt="kun.jpg" style="zoom:50%;" class="center"/> | 
-📢 Inroduction: Hi, I am a Ph.D. student from School of Computer Science, Peking University. \\ 📍 Place: Beijing. China \\ 🔬 Research topics: Differentiable inductive logic programming; Machine Learning; and deep learning.  | 
+|<img src="https://s2.loli.net/2021/12/05/5QvnAriPUWblG9S.jpg" alt="kun.jpg" style="zoom:50%;" class="center"/> | 📢 Inroduction: Hi, I am a Ph.D. student from School of Computer Science, Peking University. \\ 📍 Place: Beijing. China \\ 🔬 Research topics: Differentiable inductive logic programming; Machine Learning; and deep learning.  | 
 
 
 <!-- ## Kun Gao
