@@ -7,7 +7,7 @@ td, th {
 </style>
 |        |         |
 | ------------ | ------------- | 
-|<img src="https://s2.loli.net/2021/12/05/5QvnAriPUWblG9S.jpg" alt="kun.jpg" style="zoom:80%;" class="center"/> | 📢 Bio: A Ph.D. student from School of CS, Peking University <br /> 📍 Location: Beijing, China <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Machine Learning; Deep Learning; Knowledge Graph  | 
+|<img src="_includes.profile.jpg" alt="kun.jpg" style="zoom:80%;" class="center"/> | 📢 Bio: A Ph.D. student from School of CS, Peking University <br /> 📍 Location: Beijing, China <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Machine Learning; Deep Learning; Knowledge Graph  | 
 
 
 <!-- ## Kun Gao
