@@ -29,6 +29,10 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 ## Talks:
 - The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
 
+## Developed Softwares:
+- **DFOL**: Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts. Based on TenforFlow. Scalable, precise, robust, and computation-cheap. No GPU requirments.
+- **D-LFIT**: Learning propositional logic programs from attribute-valued datasets, including cellular automata, table row data, etc. Based on TensorFlow. Precise, robust, fast, and computation-cheap. No GPU requirments.
+
 ## Skills
 
 - TensorFlow, Python, PyTorch, C++, Java, HTML, JavaScript, SQL
