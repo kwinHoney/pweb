@@ -6,8 +6,8 @@ td, th {
 } 
 </style>
 |        |         |
-| ------------ | ------------- | 
-|<img src="https://github.com/kwinHoney/kwin/blob/gh-pages/_includes/profile.jpg" alt="kun.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: A Ph.D. student from School of CS, Peking University <br /> 📍 Location: Beijing, China <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Machine Learning; Deep Learning; Knowledge Graph  | 
+| ------------ | --------- ---- | 
+|<img src="./blob/gh-pages/_includes/profile.jpg" alt="kun.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: A Ph.D. student from School of CS, Peking University <br /> 📍 Location: Beijing, China <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Machine Learning; Deep Learning; Knowledge Graph  | 
 
 
 <!-- ## Kun Gao
