@@ -27,7 +27,7 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 - Gao, K., Wang, H., Cao, Y. et al. [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). Mach. Learn. (2021). https://doi.org/10.1007/s10994-021-06058-8. 
 
 ## Talks:
-- The 1st International Joint Conference on Learning & Reasoning (IJCLR'21). [Learning from interpretation transition using differentiable logic programming semantics](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s).  
+- The 1st International Joint Conference on Learning & Reasoning (IJCLR'21). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s)).  
 
 ## Skills
 
