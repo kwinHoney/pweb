@@ -7,7 +7,7 @@ td, th {
 </style>
 |        |         |
 | ------------ | --------- ---- | 
-|<img src="/blob/gh-pages/_includes/profile.jpg" alt="kun.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: A Ph.D. student from School of CS, Peking University <br /> 📍 Location: Beijing, China <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Machine Learning; Deep Learning; Knowledge Graph  | 
+|<img src="blob/gh-pages/_includes/profile.jpg" alt="kun.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: A Ph.D. student from School of CS, Peking University <br /> 📍 Location: Beijing, China <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Machine Learning; Deep Learning; Knowledge Graph  | 
 
 
 <!-- ## Kun Gao
@@ -24,7 +24,7 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 ## Publications 
 
 - **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://arxiv.org/abs/2204.13570). arXiv preprint arXiv:2204.13570. (Accepted by **IJCAI-ECAI 2022** Long Oral Presentation)
-- **Gao, K.**, Wang, H., Cao, Y. et al. [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Mach. Learn.** (2021). https://doi.org/10.1007/s10994-021-06058-8
+- **Gao, K.**, Wang, H., Cao, Y. et al. [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning** (2021). https://doi.org/10.1007/s10994-021-06058-8
 
 ## Talks:
 - The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
