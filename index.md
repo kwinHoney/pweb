@@ -23,7 +23,7 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 
 ## Publications 
 
-- **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://arxiv.org/abs/2204.13570). arXiv preprint arXiv:2204.13570. (Accepted by **IJCAI-ECAI 2022** Long Oral Presentation)
+- **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%)
 - **Gao, K.**, Wang, H., Cao, Y. et al. [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning** (2021). https://doi.org/10.1007/s10994-021-06058-8
 
 ## Talks:
