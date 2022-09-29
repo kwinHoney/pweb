@@ -47,6 +47,14 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 - 2022.06 - 2022.09, Researcher Intern. **Microsoft Research Asia**. Beijing, China. Perform the research on the interpretability of time-series data. 
 - 2017.09 - 2018.03, Softeare Engineer Intern. **Intel**. Beijing, China. Maintain the cloud computing opensource plateform Nova and read papers about cloud storage systems.
 
+## Awards
+- 2022.09, National Award
+- 2022.09, Peking University Excellent Metric Student
+- 2018.09, USTB Excellent Graduated Student
+- 2017.09, People's Second Rank Award
+- 2016.09, People's Top Rank Award
+
+
 ## Find me
 
 [**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**]    [**[🐦 Twitter](https://twitter.com/kwin_gao)**] 
