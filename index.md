@@ -17,8 +17,8 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 
 ## Education
 
-- 2018.09 - now, Ph.D. Candidate Student. Computer Science. **Peking University**, Beijing, China
-- 2019.09 - 2020.03, Researcher Intern. **National Institute of Informatics**. Tokyo, Japan
+- 2018.09 - now, Ph.D. Candidate Student. Computer Science. **Peking University**, Beijing, China. Supervisor: Prof. Hanpin Wang, Prof. Yongzhi Cao.
+- 2019.09 - 2020.03, Researcher Intern. **National Institute of Informatics**. Tokyo, Japan. Supervisor: Prof. Katsumi Inoue.
 - 2014.09 - 2018.07, Bechlor Degree. Information Security. **University of Secience & Technology Beijing**, Beijing, China
 
 ## Publications 
@@ -44,7 +44,8 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 - Academic Writing, Academic Research Methods
 
 ## Work Experience
-- 2017.09 - 2018.03, Softeare Engineer Intern. **Intel**. Beijing, China. Maintain the cloud computing opensource plateform Nova and read papers about cloud storage systems
+- 2022.06 - 2022.09, Researcher Intern. **Microsoft Research Asia**. Beijing, China. Perform the research on the interpretability of time-series data. 
+- 2017.09 - 2018.03, Softeare Engineer Intern. **Intel**. Beijing, China. Maintain the cloud computing opensource plateform Nova and read papers about cloud storage systems.
 
 ## Find me
 
