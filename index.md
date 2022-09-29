@@ -18,13 +18,13 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 ## Education
 
 - 2018.09 - now, Ph.D. Candidate Student. Computer Science. **Peking University**, Beijing, China. Supervisor: Prof. Hanpin Wang, Prof. Yongzhi Cao.
-- 2019.09 - 2020.03, Researcher Intern. **National Institute of Informatics**. Tokyo, Japan. Supervisor: Prof. Katsumi Inoue.
+- 2019.09 - 2020.03, Researcher Intern. **National Institute of Informatics**. Tokyo, Japan. Supervisor: Prof. [Katsumi Inoue](http://research.nii.ac.jp/~inoue/official/content_e.html).
 - 2014.09 - 2018.07, Bechlor Degree. Information Security. **University of Secience & Technology Beijing**, Beijing, China
 
 ## Publications 
 
 - **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%)
-- **Gao, K.**, Wang, H., Cao, Y. et al. [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning** (2021). https://doi.org/10.1007/s10994-021-06058-8
+- **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8
 
 ## Talks:
 - The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
