@@ -48,16 +48,17 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 - 2017.09 - 2018.03, Softeare Engineer Intern. **Intel**. Beijing, China. Maintain the cloud computing opensource plateform Nova and read papers about cloud storage systems.
 
 ## Awards
-- 2022.09, National Award
-- 2022.09, Peking University Excellent Metric Student
-- 2018.09, USTB Excellent Graduated Student
-- 2017.09, People's Second Rank Award
-- 2016.09, People's Top Rank Award
+- 2022.09, National Award (Peking University)
+- 2022.09, Excellent Metric Student (Peking University)
+- 2018.09, Excellent Graduated Student (USTB)
+- 2017.09, People's Second Rank Award (USTB)
+- 2016.09, People's Top Rank Award (USTB)
 
 
 ## Find me
 
-[**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**]    [**[🐦 Twitter](https://twitter.com/kwin_gao)**] 
+[**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**]    
+<!-- [**[🐦 Twitter](https://twitter.com/kwin_gao)**]  -->
  <!-- [**[🐈‍⬛ GitHub](https://github.com/kwinHoney)**] -->
 <!-- [**[📝 Blog](https://kwinhoney.github.io)**]   -->
 
