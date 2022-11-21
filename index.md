@@ -17,23 +17,28 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 
 ## Education
 
-- 2018.09 - now, Ph.D. Candidate Student. Computer Science. **Peking University**, Beijing, China. Supervisor: Prof. Hanpin Wang, Prof. Yongzhi Cao
-- 2019.09 - 2020.03, Researcher Intern. **National Institute of Informatics**. Tokyo, Japan. Supervisor: Prof. Katsumi Inoue
-- 2014.09 - 2018.07, Bechlor Degree. Information Security. **University of Secience & Technology Beijing**, Beijing, China
+- 2018.09 - now, Ph.D. Candidate Student. Computer Science. **[Peking University](https://english.pku.edu.cn)**, Beijing, China. Supervisor: Prof. Hanpin Wang, Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en)
+- 2019.09 - 2020.03, Researcher Intern. **[National Institute of Informatics](https://www.nii.ac.jp)**. Tokyo, Japan. Supervisor: Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en)
+- 2014.09 - 2018.07, Bechlor Degree. Information Security. **[University of Secience & Technology Beijing](https://en.ustb.edu.cn)**, Beijing, China
 
 ## Publications 
+<style>
+td, th {
+   border: none!important;
+} 
+</style>
+|        |         |
+| ------------ | --------- ---- | 
+|<img src="https://github.com/kwinHoney/kwin/blob/gh-pages/paper2.png" alt="preview" style="zoom:10%;" class="left"/> | 📍 **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%)  | 
+|<img src="https://github.com/kwinHoney/kwin/blob/gh-pages/paper1.png" alt="preview" style="zoom:10%;" class="left"/> | **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8  | 
 
-- **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%)
+- 📍 **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%) 
 - **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8
 
 ## Talks:
-- [![alt text](image "tooltip")](hyperlink)
-  for example:
-[![invisible description of images, read aloud to blind users
-](https://i.stack.imgur.com/X14m7.png
-"Let's check Jason S' profile page (inline-style)")
-](https://meta.stackoverflow.com/users/44330/jason-s) 
-The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
+- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. (**IJCAI-ECAI 2022**). Learning First-Order Rules with Differentiable Logic Program Semantics. ([Video Link](https://www.ijcai.org/proceedings/2022/video/417))
+- The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
+
 
 ## Developed Softwares:
 - **DFOL**: Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts. Based on TenforFlow. Scalable, precise, robust, and computation-cheap. No GPU requirments.
