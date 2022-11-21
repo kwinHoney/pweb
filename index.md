@@ -27,7 +27,13 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 - **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8
 
 ## Talks:
-- The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
+- [![alt text](image "tooltip")](hyperlink)
+  for example:
+[![invisible description of images, read aloud to blind users
+](https://i.stack.imgur.com/X14m7.png
+"Let's check Jason S' profile page (inline-style)")
+](https://meta.stackoverflow.com/users/44330/jason-s) 
+The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
 
 ## Developed Softwares:
 - **DFOL**: Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts. Based on TenforFlow. Scalable, precise, robust, and computation-cheap. No GPU requirments.
