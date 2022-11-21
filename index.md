@@ -17,9 +17,9 @@ Hi, I am a Ph.D. student from School of Computer Science, Peking University. My 
 
 ## Education
 
-- 2018.09 - now, Ph.D. Candidate Student. Computer Science. **[Peking University](https://english.pku.edu.cn)**, Beijing, China. Supervisor: Prof. Hanpin Wang, Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en)
-- 2019.09 - 2020.03, Researcher Intern. **[National Institute of Informatics](https://www.nii.ac.jp)**. Tokyo, Japan. Supervisor: Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en)
-- 2014.09 - 2018.07, Bechlor Degree. Information Security. **[University of Secience & Technology Beijing](https://en.ustb.edu.cn)**, Beijing, China
+- 2018.09 - now, Ph.D. Candidate Student. Computer Science. [Peking University](https://english.pku.edu.cn), Beijing, China. Supervisor: Prof. Hanpin Wang, Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en)
+- 2019.09 - 2020.03, Researcher Intern. [National Institute of Informatics](https://www.nii.ac.jp). Tokyo, Japan. Supervisor: Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en)
+- 2014.09 - 2018.07, Bechlor Degree. Information Security. [University of Secience & Technology Beijing](https://en.ustb.edu.cn), Beijing, China
 
 ## Publications 
 <style>
