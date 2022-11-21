@@ -29,8 +29,8 @@ td, th {
 </style>
 |        |         |
 | ------------ | --------- ---- | 
-|<img src="https://github.com/kwinHoney/kwin/blob/gh-pages/paper2.png" alt="preview" style="zoom:10%;" class="left"/> | 📍 **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%)  | 
-|<img src="https://github.com/kwinHoney/kwin/blob/gh-pages/pape1.png" alt="preview" style="zoom:10%;" class="left"/> | **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8  | 
+|<img src="paper2.png" alt="preview" style="zoom:10%;" class="left"/> | 📍 **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%)  | 
+|<img src="pape1.png" alt="preview" style="zoom:10%;" class="left"/> | **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8  | 
 
 - 📍 **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%) 
 - **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8
