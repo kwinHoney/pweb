@@ -32,15 +32,15 @@ td, th {
 | - **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%)  | <img src="paper2.png" alt="preview" style="zoom:45%;" class="center"/>  | 
 | - **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8 |<img src="pape1.png" alt="preview" style="zoom:45%;" class="center"/> | 
 
-<!-- - 📍 **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%) 
-- **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8 -->
+<!--  - 📍 **Gao, K.**, Inoue, K., Cao, Y., & Wang, H. (2022). [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%) 
+ -  **Gao, K.**, Wang, H., Cao, Y., & Inoue, K. (2022) [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8 -->
 
-## Talks:
+## Talks
 - The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. (**IJCAI-ECAI 2022**). Learning First-Order Rules with Differentiable Logic Program Semantics. ([Video Link](https://www.ijcai.org/proceedings/2022/video/417))
 - The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
 
 
-## Developed Softwares:
+## Developed Softwares
 - **DFOL**: Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts. Based on TenforFlow. Scalable, precise, robust, and computation-cheap. No GPU requirments.
 - **D-LFIT**: Learning propositional logic programs from attribute-valued datasets, including cellular automata, table row data, etc. Based on TensorFlow. Precise, robust, fast, and computation-cheap. No GPU requirments.
 
