@@ -10,9 +10,9 @@ td, th {
 |<img src="profile.jpg" alt="profile.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: A Ph.D. student from School of CS, Peking University <br /> 📍 Location: Beijing, China <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Machine Learning; Deep Learning; Knowledge Graph  | 
 
 
-<!-- ## Kun Gao
+## Welcome
 
-Hi, I am a Ph.D. student from School of Computer Science, Peking University. My research interests focus on differentiable inductive logic programming, machine learning, and deep learning. -->
+Hi there! Currently, I am a Ph.D. student from School of Computer Science, Peking University. I am lucky to be supervised by Prof. Hanpin Wang and Prof. Yongzhi Cao. From 2019 to 2020, I was a visit student at National Institute of Informatics, and it is a great honor for me to be supervised by Prof. Katsumi Inoue. Currently, my research interests focus on neuro-symbolic methods, differentiable inductive logic programming, machine learning, and deep learning. 
 
 
 ## Education
