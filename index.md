@@ -11,7 +11,7 @@ td, th {
 
 ## Welcome
 
-Hi, I am currently a scientist at [IHPC]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [A*STAR](https://www.a-star.edu.sg/). I obtain my Ph.D. degree from School of Computer Science, Peking University. From Sept. 2019 to Mar. 2020, I was a visit student at National Institute of Informatics. My research interests focus on neuro-symbolic methods, differentiable inductive logic programming, time series processing, and foundation models. 
+Hi, I am currently a scientist at [IHPC]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [A*STAR](https://www.a-star.edu.sg/). I obtained my Ph.D. degree from School of Computer Science, Peking University. From Sept. 2019 to Mar. 2020, I was a visit student at National Institute of Informatics. My research interests focus on neuro-symbolic methods, differentiable inductive logic programming, time series processing, and foundation models. 
 
 ## Education
 
