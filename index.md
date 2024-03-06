@@ -37,11 +37,11 @@ td, th {
 
 ## Work Experience
 - 2023.08 - now, Scientist. **Institute of High Performance Computing**, **Agency for Science, Technology and Research**. Singapore.
- ***Learning interpretable rules from real world data such as time series and image. Apply knowledge on symbolic rules on deep learning models. Using explainable AI methods on AI models to explain models’ predictions. Using large language models to perform rule induction tasks.***
+ *Learning interpretable rules from real world data such as time series and image. Apply knowledge on symbolic rules on deep learning models. Using explainable AI methods on AI models to explain models’ predictions. Using large language models to perform rule induction tasks.*
 - 2022.06 - 2022.09, Researcher Intern. **Microsoft Research Asia**. Beijing, China.
- ***Perform the research on the interpretability of time-series data.***
+ *Perform the research on the interpretability of time-series data.*
 - 2017.09 - 2018.03, Software Engineer Intern. **Intel**. Beijing, China.
- ***Maintain the cloud computing opensource platform Nova and read papers about cloud storage systems.***
+ *Maintain the cloud computing opensource platform Nova and read papers about cloud storage systems.*
 
 ## Opensource Software
 - **DFOL**: Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts. Based on TensorFlow. Scalable, precise, robust, and <u>computation-cheap</u>. No GPU requirements.
