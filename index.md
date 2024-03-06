@@ -7,7 +7,7 @@ td, th {
 </style>
 |        |         |
 | ------------ | --------- ---- | 
-|<img src="profile.jpg" alt="profile.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: Researcher <br /> 📍 Location: Singapore <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable inductive logic programming; Foundation Models; Knowledge Graph; Time Series Data  | 
+|<img src="profile.jpg" alt="profile.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: Researcher <br /> 📍 Location: Singapore <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable Inductive Logic Programming; Foundation Models; Knowledge Graph; Time Series Data  | 
 
 ## Welcome
 
