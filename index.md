@@ -70,7 +70,7 @@ td, th {
 
 ## Find me
 
-[**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**]    
+[**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**] [**[📝 CV](https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing)**]
 <!-- [**[🐦 Twitter](https://twitter.com/kwin_gao)**]  -->
  <!-- [**[🐈‍⬛ GitHub](https://github.com/kwinHoney)**] -->
 <!-- [**[📝 Blog](https://kwinhoney.github.io)**]   -->
