@@ -45,7 +45,7 @@ td, th {
 - **D-LFIT**: Learning propositional logic programs from attribute-valued datasets, including cellular automata, table row data, etc. Based on TensorFlow. Precise, robust, fast, and ***computation-cheap***. No GPU requirements.
 
 ## Peer Reviewer
-2024, IEEE Transactions on Knowledge and Data Engineering
+- 2024, IEEE Transactions on Knowledge and Data Engineering
 
 ## Skills
 - TensorFlow, Python, PyTorch, C++, Java, HTML, JavaScript, SQL
