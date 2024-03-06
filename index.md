@@ -26,9 +26,9 @@ td, th {
    border: none!important;
 } 
 </style>
-| <img src="head_gp.png" alt="preview" style="zoom:60%;" class="center"/> |  [A differentiable first-order rule learner for inductive logic programming]().<br />**Gao, Kun**, Inoue, Katsumi, Cao, Yongzhi, & Wang, Hanpin (2024). **Artificial Intelligence**. (Accepted under Proof) | 
+| <img src="head_gp.png" alt="preview" style="zoom:60%;" class="center"/> |  [A differentiable first-order rule learner for inductive logic programming]().<br />**Gao, Kun**, Inoue, Katsumi, Cao, Yongzhi, & Wang, Hanpin (2024). **[Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence)**. (Accepted under Proof) | 
 | <img src="paper2.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417).<br />**Gao, Kun**, Inoue, Katsumi, Cao, Yongzhi, & Wang, Hanpin (2022). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%) | 
-| <img src="pape1.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8).<br />**Gao, Kun**, Wang, Hanpin, Cao, Yongzhi, & Inoue, Katsumi (2022). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8 | 
+| <img src="pape1.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8).<br />**Gao, Kun**, Wang, Hanpin, Cao, Yongzhi, & Inoue, Katsumi (2022). **[Machine Learning](https://link.springer.com/journal/10994)**. https://doi.org/10.1007/s10994-021-06058-8 | 
 
 ## Talks
 - The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. (**IJCAI-ECAI 2022**). Learning First-Order Rules with Differentiable Logic Program Semantics. ([Video Link](https://www.ijcai.org/proceedings/2022/video/417))
