@@ -13,7 +13,7 @@ td, th {
 
 Hi, I am currently a scientist at [IHPC]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [A*STAR](https://www.a-star.edu.sg/). I obtained my Ph.D. degree from School of Computer Science, Peking University. From Sept. 2019 to Mar. 2020, I was a visit student at National Institute of Informatics. My research interests focus on neuro-symbolic methods, differentiable inductive logic programming, time series processing, and foundation models. 
 
-I am also open for a postdoc position. Please check out my research statememnt if you are interested. 
+I am also open for a research position. Please check out my research statememnt if you are interested. 
 
 ## Education
 
