@@ -7,7 +7,7 @@ td, th {
 </style>
 |        |         |
 | ------------ | --------- ---- | 
-|<img src="profile.jpg" alt="profile.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: Researcher <br /> 📍 Location: Singapore <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable Inductive Logic Programming; Foundation Models; Knowledge Graph; Time Series Data  | 
+|<img src="profile.jpg" alt="profile.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: Researcher <br /> 📍 Location: Singapore <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable Inductive Logic Programming; Foundation Models; Knowledge Graph; Time Series Data <br /> 🔎 Find me: [**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**] [**[📝 CV](https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing)**] [**[📆 Book an Appointment](https://calendly.com/gkings612/60min)**]  | 
 
 ## Welcome
 
@@ -29,9 +29,9 @@ td, th {
    border: none!important;
 } 
 </style>
-| <img src="head_gp.png" alt="preview" style="zoom:60%;" class="center"/> |  [A differentiable first-order rule learner for inductive logic programming](https://www.sciencedirect.com/science/article/pii/S0004370224000444).<br />**Gao, Kun**, Inoue, Katsumi, Cao, Yongzhi, & Wang, Hanpin (2024). **Artificial Intelligence**. [(Code)](https://github.com/gaokun12/DFORL) | 
-| <img src="paper2.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417).<br />**Gao, Kun**, Inoue, Katsumi, Cao, Yongzhi, & Wang, Hanpin (2022). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%) [(Video)](https://www.ijcai.org/proceedings/2022/video/417) [(Code)](https://github.com/gaokun12/DFORL) [(Slide)](slides/IJCAI_2022_DFOL.pdf) | 
-| <img src="pape1.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8).<br />**Gao, Kun**, Wang, Hanpin, Cao, Yongzhi, & Inoue, Katsumi (2022). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8 [(Video)](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s) [(Code)](https://github.com/gaokun12/D-LFIT) [(Slide)](slides/D_LFIT_IJCLR.pdf) | 
+| <img src="head_gp.png" alt="preview" style="zoom:60%;" class="center"/> |  [A differentiable first-order rule learner for inductive logic programming](https://www.sciencedirect.com/science/article/pii/S0004370224000444).<br />**Gao, Kun**, Inoue, Katsumi, Cao, Yongzhi, & Wang, Hanpin (2024). **Artificial Intelligence**. ([Code](https://github.com/gaokun12/DFORL)) | 
+| <img src="paper2.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning First-Order Rules with Differentiable Logic Program Semantics](https://www.ijcai.org/proceedings/2022/417).<br />**Gao, Kun**, Inoue, Katsumi, Cao, Yongzhi, & Wang, Hanpin (2022). **IJCAI-ECAI 2022**. (Long Oral Presentation, top 3.5%) ([Video](https://www.ijcai.org/proceedings/2022/video/417)) ([Code](https://github.com/gaokun12/DFORL)) ([Slide](slides/IJCAI_2022_DFOL.pdf)) | 
+| <img src="pape1.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8).<br />**Gao, Kun**, Wang, Hanpin, Cao, Yongzhi, & Inoue, Katsumi (2022). **Machine Learning**. https://doi.org/10.1007/s10994-021-06058-8 ([Video](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s)) ([Code](https://github.com/gaokun12/D-LFIT)) ([Slide](slides/D_LFIT_IJCLR.pdf)) | 
 
 ## Talks
 - The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. (**IJCAI-ECAI 2022**). Learning First-Order Rules with Differentiable Logic Program Semantics. ([Video Link](https://www.ijcai.org/proceedings/2022/video/417))
@@ -72,9 +72,9 @@ td, th {
 - 2017.09, People's Second Rank Award (USTB)
 - 2016.09, People's Top Rank Award (USTB)
 
-## Find me
+<!-- ## Find me
 
-[**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**] [**[📝 CV](https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing)**] [**[📆 Book an Appointment](https://calendly.com/gkings612/60min)**]
+[**[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)**] [**[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)**] [**[📝 CV](https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing)**] [**[📆 Book an Appointment](https://calendly.com/gkings612/60min)**] -->
 <!-- [**[🐦 Twitter](https://twitter.com/kwin_gao)**]  -->
  <!-- [**[🐈‍⬛ GitHub](https://github.com/kwinHoney)**] -->
 <!-- [**[📝 Blog](https://kwinhoney.github.io)**]   -->
