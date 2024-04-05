@@ -52,6 +52,7 @@ td, th {
 
 ## Peer Reviewer
 - 2024, IEEE Transactions on Knowledge and Data Engineering
+- 2024, ECAI
 
 ## Skills
 - TensorFlow, Python, PyTorch, C++, Java, HTML, JavaScript, SQL
