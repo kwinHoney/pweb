@@ -5,6 +5,7 @@ td, th {
    border: none!important;
 } 
 </style>
+%%html
 <style>
     .blue {
         background-color: #e3ffea;
