@@ -69,7 +69,7 @@ td, th {
 - Automata, Advanced Logic, Mathematical Foundation in Computer Science
 - Academic Writing, Academic Research Methods
 
-
+ 
 ## Awards
 - 2022.09, National Award (Peking University)
 - 2022.09, Excellent Metric Student (Peking University)
