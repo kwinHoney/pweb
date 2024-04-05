@@ -38,21 +38,21 @@ td, th {
 | <img src="pape1.png" alt="preview" style="zoom:60%;" class="center"/> |  [Learning from interpretation transition using differentiable logic programming semantics](https://link.springer.com/article/10.1007/s10994-021-06058-8).<br /><u>Gao, Kun</u>, Wang, Hanpin, Cao, Yongzhi, & Inoue, Katsumi (2022). [Machine Learning](https://link.springer.com/journal/10994). https://doi.org/10.1007/s10994-021-06058-8 ([Video](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s)) ([Code](https://github.com/gaokun12/D-LFIT)) ([Slide](slides/D_LFIT_IJCLR.pdf)) | 
 
 ## Talks
-- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. (**IJCAI-ECAI 2022**). Learning First-Order Rules with Differentiable Logic Program Semantics. ([Video Link](https://www.ijcai.org/proceedings/2022/video/417))
-- The 1st International Joint Conference on Learning & Reasoning (**IJCLR'21**). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
+- The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence. ([IJCAI-ECAI 2022](https://ijcai-22.org/)). Learning First-Order Rules with Differentiable Logic Program Semantics. ([Video Link](https://www.ijcai.org/proceedings/2022/video/417))
+- The 1st International Joint Conference on Learning & Reasoning ([IJCLR'21](http://lr2020.iit.demokritos.gr/index.html)). Learning from interpretation transition using differentiable logic programming semantics. ([Video Link](https://www.youtube.com/watch?v=M_65WZBkLAQ&t=89s))
 
 
 ## Work Experience
-- 2023.08 - now, Scientist. **Institute of High Performance Computing**, **Agency for Science, Technology and Research**. Singapore.
+- 2023.08 - now, Scientist. <u>Institute of High Performance Computing</u>, Agency for Science, Technology and Research. Singapore.
  *Learning interpretable rules from real world data such as time series and image. Apply knowledge on symbolic rules on deep learning models. Using explainable AI methods on AI models to explain models’ predictions. Using large language models to perform rule induction tasks.*
-- 2022.06 - 2022.09, Researcher Intern. **Microsoft Research Asia**. Beijing, China.
+- 2022.06 - 2022.09, Researcher Intern. <u>Microsoft Research Asia</u>. Beijing, China.
  *Perform the research on the interpretability of time-series data.*
-- 2017.09 - 2018.03, Software Engineer Intern. **Intel**. Beijing, China.
+- 2017.09 - 2018.03, Software Engineer Intern. <u>Intel</u>. Beijing, China.
  *Maintain the cloud computing opensource platform Nova and read papers about cloud storage systems.*
 
 ## Opensource Software
-- [**DFOL**](https://github.com/gaokun12/DFORL): Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts. Based on TensorFlow. Scalable, precise, robust, and <u>computation-cheap</u>. No GPU requirements.
-- [**D-LFIT**](https://github.com/gaokun12/D-LFIT): Learning propositional logic programs from attribute-valued datasets, including cellular automata, table row data, etc. Based on TensorFlow. Precise, robust, fast, and <u>computation-cheap</u>. No GPU requirements.
+- [DFOL](https://github.com/gaokun12/DFORL): Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts. Based on TensorFlow. Scalable, precise, robust, and <u>computation-cheap</u>. No GPU requirements.
+- [D-LFIT](https://github.com/gaokun12/D-LFIT): Learning propositional logic programs from attribute-valued datasets, including cellular automata, table row data, etc. Based on TensorFlow. Precise, robust, fast, and <u>computation-cheap</u>. No GPU requirements.
 
 ## Peer Reviewer
 - 2024, IEEE Transactions on Knowledge and Data Engineering
