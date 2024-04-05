@@ -58,15 +58,15 @@ td, th {
 - 2024, IEEE Transactions on Knowledge and Data Engineering
 - 2024, ECAI
 
-## Skills
+<!-- ## Skills
 - TensorFlow, Python, PyTorch, C++, Java, HTML, JavaScript, SQL
-- English, Chinese
+- English, Chinese -->
 
-## Main Courses
+<!-- ## Main Courses
 - Deep Learning, Machine Learning, Algorithm and Complexity
 - Linear Algebra, Assembly Language, Principles of Computer Organization
 - Automata, Advanced Logic, Mathematical Foundation in Computer Science
-- Academic Writing, Academic Research Methods
+- Academic Writing, Academic Research Methods -->
 
 
 ## Awards
