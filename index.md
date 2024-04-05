@@ -5,9 +5,28 @@ td, th {
    border: none!important;
 } 
 </style>
+<style>
+    .heatMap {
+        width: 70%;
+        text-align: left;
+    }
+    .heatMap th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: left;
+    }
+    .heatMap tr:nth-child(1) { background: white; }
+    .heatMap tr:nth-child(2) { background: grey; }
+    .heatMap tr:nth-child(3) { background: white; }
+   .heatMap tr:nth-child(4) { background: grey; }
+       .heatMap tr:nth-child(5) { background: white; }
+</style>
+
+<div class="heatMap">
 |        |         |
 | ------------ | --------- ---- | 
 |<img src="profile.jpg" alt="profile.jpg" style="zoom:20%;" class="center"/> | 📢 Bio: Researcher <br /> 📍 Location: Singapore <br />  ✉️ Email: [kungao@pku.edu.cn](mailto:kungao@pku.edu.cn) <br />🔬 Research topics: Differentiable Inductive Logic Programming; Foundation Models; Knowledge Graph; Time Series Data <br /> 🔎 Find me: [[🎓 Google Scholar](https://scholar.google.co.uk/citations?user=9rKaxo0AAAAJ&hl=en&oi=sra)] [[🧳 LinkedIn](https://www.linkedin.com/in/kun-gao-298b7084/)] [[📝 CV](https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing)] [[📆 Book an Appointment](https://calendly.com/gkings612/60min)]  | 
+</div>
 
 ## Welcome
 
